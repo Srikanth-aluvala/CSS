@@ -1,0 +1,142 @@
+.container1{
+/*border: 2px solid;*/
+height: 30px;
+}
+.child-1
+{
+    /*border: 2px solid;*/
+    display: inline-block;
+    font-size: 20px;
+}
+.child-2{
+  /*  border: 2px solid;*/
+    display: inline-block;
+    margin-left: 1300px;
+    font-size: 20px;
+}
+.child-1 h3{
+    background-color: white;
+    color: black;
+}
+
+.container2{
+/*border: 2px solid;*/
+position: relative;
+margin-top: 15px;
+
+}
+.container2 p{
+    margin-left: 50px;
+}
+img{
+    width:100%;
+}
+h2{
+    position: absolute;
+    top: 350px;
+    left: 600px;
+    color: white;
+    font-size: 40px;
+}
+.container2 span{
+    background-color: black;
+    font-size: 50px;
+    color: white;
+    padding: 10px;
+}
+
+.container3{
+  /*  border: 2px solid blue;*/
+    height: 500px;
+    margin-left: 50px;
+}
+.child1{
+   /* border: 2px solid;*/
+    height: 250px;
+
+}
+
+.subchild-1{
+   /* border: 2px solid red;*/
+    width: 320px;
+    height: 280px;
+    display: inline-block;
+    position: relative;
+   
+}
+.subchild-2{
+     /* border: 2px solid red;*/
+    width: 320px;
+    height: 280px;
+    display: inline-block;
+    position: relative;
+    
+}
+.subchild-3{
+     /* border: 2px solid red;*/
+    width: 320px;
+     height: 280px;
+    display: inline-block;
+    position: relative;
+    
+}
+.subchild-4{
+     /* border: 2px solid red;*/
+    width: 320px;
+   height: 280px;
+    display: inline-block;
+      position: relative;
+      
+    
+}
+ h3{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    position: absolute;
+    top: 0px;
+    margin: 0px;
+    padding: 7px;
+}
+
+.child2{
+    /*border: 2px solid yellow;*/
+    height: 250px;
+    
+}
+.subchild-5{
+     /* border: 2px solid red;*/
+    width: 320px;
+     height: 280px;
+    display: inline-block;
+      position: relative;
+      
+}
+.subchild-6{
+     /* border: 2px solid red;*/
+    width: 320px;
+     height: 280px;
+    display: inline-block;
+      position: relative;
+      
+    
+}.subchild-7{
+    /* border: 2px solid red;*/
+    width: 320px;
+   height: 280px;
+    display: inline-block;
+      position: relative;
+      
+    
+}.subchild-8{
+  /* border: 2px solid red;*/
+    width: 320px;
+    height: 280px;
+    display: inline-block;
+      position: relative;
+    
+    
+}
+
+
+
