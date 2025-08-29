@@ -1,0 +1,129 @@
+.container{
+   /*border: 2px solid red;*/
+   display: flex;
+   flex-wrap: wrap;
+   gap: 12px;
+   height: 1000px;
+   margin-left: 50px;
+   margin-right: 137px;
+   background-color: black;
+  
+}
+.child{
+   /* border: 2px solid blue;*/
+    width: 320px;
+    height: 320px;
+    flex-shrink: 0;
+    background-color: black;
+    
+}
+img{
+    width: 100%;
+    height: 325px;
+}
+h3{
+    opacity: 0;
+    margin-top: 100px;
+    color:white;
+}
+.child-1:hover>img{
+    display: none;
+}
+.child-1:hover>h3 {
+    opacity: 1;
+    text-align: center;
+    font-size: 40px;
+}
+.child-2:hover>img{
+    display: none;
+}
+.child-2:hover>h3 {
+    opacity: 1;
+    text-align: center;
+    font-size: 40px;
+}
+.child-3:hover>img{
+    display: none;
+}
+.child-3:hover>h3 {
+    opacity: 1;
+    text-align: center;
+    font-size: 40px;
+}
+.child-4:hover>img{
+    display: none;
+}
+.child-4:hover>h3 {
+    opacity: 1;
+    text-align: center;
+    font-size: 40px;
+}
+
+.child-5:hover>img{
+    display: none;
+}
+.child-5:hover>h3 {
+    opacity: 1;
+    text-align: center;
+    font-size: 40px;
+}
+
+.child-6:hover>img{
+    display: none;
+}
+.child-6:hover>h3 {
+    opacity: 1;
+    text-align: center;
+    font-size: 40px;
+}
+.child-7:hover>img{
+    display: none;
+}
+.child-7:hover>h3 {
+    opacity: 1;
+    text-align: center;
+    font-size: 40px;
+}
+.child-8:hover>img{
+    display: none;
+}
+.child-8:hover>h3 {
+    opacity: 1;
+    text-align: center;
+    font-size: 40px;
+}
+.child-9:hover>img{
+    display: none;
+}
+.child-9:hover>h3 {
+    opacity: 1;
+    text-align: center;
+    font-size: 40px;
+}
+
+.child-10:hover>img{
+    display: none;
+}
+.child-10:hover>h3 {
+    opacity: 1;
+    text-align: center;
+    font-size: 40px;
+}
+
+.child-11:hover>img{
+    display: none;
+}
+.child-11:hover>h3 {
+    opacity: 1;
+    text-align: center;
+    font-size: 40px;
+}
+
+.child-12:hover>img{
+    display: none;
+}
+.child-12:hover>h3 {
+    opacity: 1;
+    text-align: center;
+    font-size: 40px;
+}
