@@ -1,0 +1,49 @@
+body{
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.container{
+    border: 2px solid black;
+    width: 602px;
+    height: 587px;
+    
+}
+.child{
+       width: 600px;
+    height: 70px;
+   border: 2px solid;
+   display: flex;
+}
+.odd{
+border: 2px solid ;
+width: 72px;
+height: 70px;
+background-color: white;
+
+}
+.odd:hover{
+   
+   background-color: gray;
+}
+.even:hover{
+    
+    background-color: white;
+}
+img:hover{
+    padding: 8px;
+}
+
+.even{
+border: 2px solid ;
+width: 72px;
+height: 70px;
+background-color:gray;
+}
+img{
+    width: 100%;
+   padding-top: 5px;
+}
+
